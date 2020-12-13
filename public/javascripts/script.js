@@ -44,7 +44,7 @@ function ShowResults(response){
   '</div>'+
 '</section>';
 
-  let thumbnail_url = 'http://i3.ytimg.com/vi/g1ARRcK4LVs/hqdefault.jpg';
+  let thumbnail_url = 'http://i3.ytimg.com/vi/g1ARRcK4LVs/default.jpg';
   let title = ' Terror in Resonance – Opening Theme – Trigger ';
   let channel = 'Funinmation';
   let desc = 'vdescription';
